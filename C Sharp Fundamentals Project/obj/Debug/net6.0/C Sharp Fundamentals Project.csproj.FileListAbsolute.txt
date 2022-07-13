@@ -1,0 +1,15 @@
+C:\Users\Karolek\C# Udemy\C# Basics for Beginners Learn C# Fundamentals by Coding\C Sharp Fundamentals Project\bin\Debug\net6.0\C Sharp Fundamentals Project.exe
+C:\Users\Karolek\C# Udemy\C# Basics for Beginners Learn C# Fundamentals by Coding\C Sharp Fundamentals Project\bin\Debug\net6.0\C Sharp Fundamentals Project.deps.json
+C:\Users\Karolek\C# Udemy\C# Basics for Beginners Learn C# Fundamentals by Coding\C Sharp Fundamentals Project\bin\Debug\net6.0\C Sharp Fundamentals Project.runtimeconfig.json
+C:\Users\Karolek\C# Udemy\C# Basics for Beginners Learn C# Fundamentals by Coding\C Sharp Fundamentals Project\bin\Debug\net6.0\C Sharp Fundamentals Project.dll
+C:\Users\Karolek\C# Udemy\C# Basics for Beginners Learn C# Fundamentals by Coding\C Sharp Fundamentals Project\bin\Debug\net6.0\C Sharp Fundamentals Project.pdb
+C:\Users\Karolek\C# Udemy\C# Basics for Beginners Learn C# Fundamentals by Coding\C Sharp Fundamentals Project\obj\Debug\net6.0\C Sharp Fundamentals Project.csproj.AssemblyReference.cache
+C:\Users\Karolek\C# Udemy\C# Basics for Beginners Learn C# Fundamentals by Coding\C Sharp Fundamentals Project\obj\Debug\net6.0\C Sharp Fundamentals Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Karolek\C# Udemy\C# Basics for Beginners Learn C# Fundamentals by Coding\C Sharp Fundamentals Project\obj\Debug\net6.0\C Sharp Fundamentals Project.AssemblyInfoInputs.cache
+C:\Users\Karolek\C# Udemy\C# Basics for Beginners Learn C# Fundamentals by Coding\C Sharp Fundamentals Project\obj\Debug\net6.0\C Sharp Fundamentals Project.AssemblyInfo.cs
+C:\Users\Karolek\C# Udemy\C# Basics for Beginners Learn C# Fundamentals by Coding\C Sharp Fundamentals Project\obj\Debug\net6.0\C Sharp Fundamentals Project.csproj.CoreCompileInputs.cache
+C:\Users\Karolek\C# Udemy\C# Basics for Beginners Learn C# Fundamentals by Coding\C Sharp Fundamentals Project\obj\Debug\net6.0\C Sharp Fundamentals Project.dll
+C:\Users\Karolek\C# Udemy\C# Basics for Beginners Learn C# Fundamentals by Coding\C Sharp Fundamentals Project\obj\Debug\net6.0\refint\C Sharp Fundamentals Project.dll
+C:\Users\Karolek\C# Udemy\C# Basics for Beginners Learn C# Fundamentals by Coding\C Sharp Fundamentals Project\obj\Debug\net6.0\C Sharp Fundamentals Project.pdb
+C:\Users\Karolek\C# Udemy\C# Basics for Beginners Learn C# Fundamentals by Coding\C Sharp Fundamentals Project\obj\Debug\net6.0\C Sharp Fundamentals Project.genruntimeconfig.cache
+C:\Users\Karolek\C# Udemy\C# Basics for Beginners Learn C# Fundamentals by Coding\C Sharp Fundamentals Project\obj\Debug\net6.0\ref\C Sharp Fundamentals Project.dll
